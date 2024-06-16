@@ -1,1 +1,7 @@
-
+subject: The Microsoft Café
+listing-order: 4
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Microsoft 365 Training
+    description:
+      - Get your team caffeinated with Microsoft 365 skills. From basic sips to advanced latte art (okay, maybe not the art part), our training sessions keep everyone percolating.
