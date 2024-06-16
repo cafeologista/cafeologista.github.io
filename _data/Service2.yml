@@ -1,18 +1,8 @@
-subject: Education
+subject: The Intranet Café
 listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Company Intranet Design (Powered by Microsoft SharePoint)
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
-    description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - "Picture this: a velvety-smooth intranet, swirled with collaboration, knowledge sharing, and secure document management. That’s our specialty! We use Microsoft SharePoint to create a mocha-infused intranet experience—rich, satisfying, and essential for your team’s productivity."
+      - "SharePoint Migration: If your company hasn’t migrated from SharePoint Server to SharePoint Online, we’ll guide you through the process like seasoned coffee connoisseurs."
