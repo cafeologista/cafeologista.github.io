@@ -2,13 +2,13 @@ subject: Get in Touch
 listing-order: 5
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Call Us
+  - title: Call or text us
     description:
       - 510.883.4908
-  - title: Email Us
+  - title: Email us
     description:
       - <a href="mailto:cafeologista@gmail.com">cafeologista@gmail.com</a>
-  - title: Book a 30-minute consultation
+  - title: Book a free 30-minute consultation
     description:
       - <a href="https://www.calendly.com/cafeologista">Cafeologista on Calendly</a>
 
