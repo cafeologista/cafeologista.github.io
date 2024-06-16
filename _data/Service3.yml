@@ -1,1 +1,10 @@
+subject: The Document Café
+listing-order: 3
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Document Services
+    description:
+      - "Our baristas—uh, document experts—whip up delightful content:"
+      - "Copyediting Brew: We refine your content like a skilled barista frothing milk. Clarity, consistency, and zero bitterness guaranteed!"
+      - "•	Proofreading Sip: Our eagle-eyed baristas catch those sneaky typos, just like spotting a hidden coffee stain. Your documents will be as crisp as a biscotti dunked in a warm cappuccino."
 
