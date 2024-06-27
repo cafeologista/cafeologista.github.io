@@ -1,15 +1,19 @@
-title: Cafeologista
-profile_img: /assets/img/cafeologista_brown.png
-icon_img: /assets/img/coffee.svg
+title: Alessandra Gutierrez de Leon
+profile_img: /assets/img/headshot2024.png
+icon_img: /assets/img/computer.svg
 
-name: Welcome to Cafeologista
-job: Where exciting digital delights are always brewing
+name: Alessandra Gutierrez de Leon, CSPO
 
+phone_number: 510-883-4908
+address: San Francisco Bay Area
+email: a.gutidel@outlook.com
+linkedin_username: gutidel
+github_username: cafeologista
 
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
-baseurl:
+baseurl: /alessandra
 
 exclude:
   - _posts/
