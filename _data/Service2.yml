@@ -1,8 +1,0 @@
-subject: The Intranet Café
-listing-order: 2
-icon: "/assets/img/intranet.svg"
-contents:
-  - title: Company Intranet Design (Powered by Microsoft SharePoint)
-    description:
-      - "Picture this: a velvety-smooth intranet, swirled with collaboration, knowledge sharing, and secure document management. That’s our specialty! We use Microsoft SharePoint to create a mocha-infused intranet experience—rich, satisfying, and essential for your team’s productivity."
-      - "SharePoint Migration: If your company hasn’t migrated from SharePoint Server to SharePoint Online, we’ll guide you through the process like seasoned coffee connoisseurs."
