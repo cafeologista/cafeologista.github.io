@@ -3,6 +3,6 @@ listing-order: 7
 icon: "/assets/img/globe.svg"
 contents:
   - title: "English (Native): <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
-  - title: "Spanish: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●●○</span>"
-  - title: "French: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●○○</span>"
+  - title: "Spanish: <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●●○</span>"
+  - title: "French: <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●○○</span>"
   
