@@ -1,1 +1,26 @@
-
+subject: Education
+listing-order: 5
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Swiss School of Business and Management
+    description:
+      - Doctorate in Business Administration
+      - "Dissertation Topic: Social media marketing strategies in the specialty coffee sector"
+    date: Dec 2022 - Dec 2025
+  - title: Escuela de Negocios Europea en Barcelona
+    description:
+      - MA in Business and Corporate Communication
+    date: Jun 2024 - May 2025
+  - title: Leaders Excellence at Harvard Square
+    description:
+      - mini MBA
+    date: May 2024 - Nov 2024
+  - title: UCLA
+    description:
+      - Technical Management Program
+    date: Sep 2017
+  - title: UC Berkeley
+    description:
+      - BA in Linguistics; Minor in French Language Studies
+      - Cal Scholarship and Wheeler Scholarship Recipient
+    date: Aug 2001 - Dec 2003
