@@ -5,11 +5,7 @@ contents:
   - title: HUB International
     role: Applications Manager
     description: 
-    date: Oct 2023 - present
-  - title: Claims Letters
-    role: Product Manager
-    description: As a Product Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives. My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.
-    date: Oct 2023 - present
+    date: Oct 2024 - present
   - title: 17miles coffee roasters
     role: Product Manager
     description: As the leader in executing product strategies and refining our coffee roasting portfolio, I collaborate closely with the master roaster to maintain freshness standards and uphold our brand’s vision. Through studying consumer preferences and local competitor offerings, I identify opportunities for product differentiation within the specialty coffee community. Continuously seeking improvement, I gather feedback from customers and market insights to enhance the quality of our coffee offerings, ensuring consistency and excellence across all products.
@@ -18,6 +14,13 @@ contents:
     role: Project Consultant
     description: cafeoLogix encompasses a broad range of offerings including web design, productivity services, and language instruction, reflecting the dynamic needs of our clients. As a Project Consultant at cafeoLogix, I provide tech consultancy in web design, productivity solutions, and language learning. I offer tailored web design services, including branding, messaging, social media integration, and marketing collateral for small businesses and nonprofits. Additionally, I provide productivity training in Microsoft 365 alongside language instruction in Spanish and French, focusing on foundational skills.
     date: Sep 2022 - Present
+
+  - title: Claims Letters
+    role: Product Manager
+    description: As a Product Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives. My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.
+    date: Oct 2023 - present
+
+  
   - title: GeoVera Insurance Group
     role: Senior Technical Program Manager
     description: In my role as a Senior Technical Program Manager, I managed and executed multiple SharePoint projects, collaborating with business users across departments to gather business requirements and manage the development, testing, and implementation of automations and custom forms via Microsoft 365.
